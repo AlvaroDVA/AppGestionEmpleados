@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GestionEmpleados</id>
+    <version>1.0.0</version>
+    <authors>GestionEmpleados</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.runtimeconfig.json" target="lib\net7.0-windows7.0\GestionEmpleados.runtimeconfig.json" />
+    <file src="C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.dll" target="lib\net7.0-windows7.0\GestionEmpleados.dll" />
+  </files>
+</package>

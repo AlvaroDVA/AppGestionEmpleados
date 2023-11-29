@@ -1,0 +1,17 @@
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.GestionEmpleadosView.resources
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.csproj.GenerateResource.cache
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.AssemblyInfo.cs
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.exe
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.deps.json
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.runtimeconfig.json
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.dll
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\bin\Debug\net7.0-windows\GestionEmpleados.pdb
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.dll
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\refint\GestionEmpleados.dll
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.pdb
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.genruntimeconfig.cache
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\ref\GestionEmpleados.dll
+C:\Proyectos .NET\WindowsFormsApps\GestionEmpleados\obj\Debug\net7.0-windows\GestionEmpleados.NuevoEmpleadoView.resources
